@@ -1,0 +1,1 @@
+<x-series.form :action="route('series.update', $series->id)" :title="$series->title" :title="$series->title" :update="true"/>
